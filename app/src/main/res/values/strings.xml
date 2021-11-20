@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySelf</string>
+    <string name="fecha">Selecciona Fecha de Nacimiento</string>
+    <string name="calcularHoroscopo">Calcular Horóscopo</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="horoscopoSemanal">Averigua tu Horóscopo</string>
+</resources>

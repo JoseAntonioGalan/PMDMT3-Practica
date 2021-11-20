@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="miEstilo" parent="@style/Theme.PMDMT3Practica">
+        <item name="android:textColor">@color/amarilloClaro</item>
+    </style>
+</resources>
