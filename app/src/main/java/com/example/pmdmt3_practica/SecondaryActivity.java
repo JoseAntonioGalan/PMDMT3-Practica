@@ -41,8 +41,10 @@ public class SecondaryActivity extends AppCompatActivity implements View.OnClick
 
             String edad = edad(day,month,year);
             lblEdad.setText(edad);
+
             horoscopo = horoscopo(day, month);
             lblHoroscopo.setText("Eres "+horoscopo);
+
             cambiarImagen(horoscopo);
         }
     }
