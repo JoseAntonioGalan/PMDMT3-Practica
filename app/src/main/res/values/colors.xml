@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="amarilloClaro">#FCCA30</color>
     <color name="amarilloOscuro">#D1A005</color>
+    <color name="grisClaro">#CFCDC6</color>
 </resources>
