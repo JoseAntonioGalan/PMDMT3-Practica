@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/JoseAntonioGalan/AndroidStudioProjects/PMDMT3-Practica/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/JoseAntonioGalan/AndroidStudioProjects/PMDMT3-Practica/app/src/main/res/layout-land/activity_secondary.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/JoseAntonioGalan/AndroidStudioProjects/PMDMT3-Practica/app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/JoseAntonioGalan/AndroidStudioProjects/PMDMT3-Practica/app/src/main/res/layout/activity_secondary.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/drawable/ic_aquarius.xml" value="0.1361111111111111" />
         <entry key="app/src/main/res/drawable/ic_aries.xml" value="0.1361111111111111" />
         <entry key="app/src/main/res/drawable/ic_cancer.xml" value="0.1361111111111111" />
